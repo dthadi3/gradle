@@ -1,6 +1,7 @@
 arch:
   - amd64
   - ppc64le
+dist: focal
 language: java
 jdk: openjdk11
 before_cache:
